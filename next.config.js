@@ -1,4 +1,3 @@
-// next.config.js dosyası
 
 const withPWA = require('next-pwa');
 
