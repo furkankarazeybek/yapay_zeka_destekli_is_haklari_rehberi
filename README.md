@@ -53,7 +53,7 @@ Proje, endüstri standardı en güncel "Modern Data Stack" teknolojileriyle geli
 ### AI & Data Engineering
 * **LLM:** OpenAI API (GPT-4 Turbo & GPT-3.5)
 * **Vector DB:** [Pinecone](https://www.pinecone.io/) (Serverless Vector Store)
-* **Embedding:** OpenAI Text-Embedding-3-Small
+* **Embedding:** OpenAI text-embedding-ada-002
 * **Orchestration:** OpenAI Edge SDK
 
 ### Backend & Database
